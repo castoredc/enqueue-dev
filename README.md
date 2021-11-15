@@ -1,20 +1,7 @@
-<p align="center"><a href="https://php-enqueue.github.io/" target="_blank"><img width="700" src="https://github.com/php-enqueue/logos/blob/master/Enqueue%20logo.png" alt="Enqueue logo" /></a></p>
+## Intro-introduction
+This is a CastorEDC fork addressing deadlock issues with DBAL MySQL driver.
 
-<p align="center">
-  <a href="https://gitter.im/php-enqueue/Lobby"><img src="https://badges.gitter.im/php-enqueue/Lobby.svg" alt="Enqueue Chat"></a>
-  <a href="https://github.com/php-enqueue/enqueue-dev/actions?query=workflow%3ACI"><img src="https://img.shields.io/github/workflow/status/php-enqueue/enqueue-dev/CI" alt="Build Status"></a>
-  <a href="https://packagist.org/packages/enqueue/enqueue/stats"><img src="https://poser.pugx.org/enqueue/enqueue/d/total.png?branch=master" alt="Total Downloads"></a>
-  <a href="https://packagist.org/packages/enqueue/enqueue"><img src="https://poser.pugx.org/enqueue/enqueue/version.png" alt="Latest Stable Version"></a>
-  <a href="./LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
-</p>
-
-<h2 align="center">Supporting Enqueue</h2>
-
-Enqueue is an MIT-licensed open source project with its ongoing development made possible entirely by the support of community and our customers. If you'd like to join them, please consider:
-
-- [Become our client](http://forma-pro.com/)
-
----
+For details check DbalConsumerHelperTrait.php.
 
 ## Introduction
 
